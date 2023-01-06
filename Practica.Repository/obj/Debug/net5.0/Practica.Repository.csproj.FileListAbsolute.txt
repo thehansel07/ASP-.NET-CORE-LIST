@@ -1,0 +1,12 @@
+C:\Users\hcabrera\source\repos\Practica\Practica.Repository\bin\Debug\net5.0\Practica.Repository.deps.json
+C:\Users\hcabrera\source\repos\Practica\Practica.Repository\bin\Debug\net5.0\Practica.Repository.dll
+C:\Users\hcabrera\source\repos\Practica\Practica.Repository\bin\Debug\net5.0\ref\Practica.Repository.dll
+C:\Users\hcabrera\source\repos\Practica\Practica.Repository\bin\Debug\net5.0\Practica.Repository.pdb
+C:\Users\hcabrera\source\repos\Practica\Practica.Repository\obj\Debug\net5.0\Practica.Repository.csproj.AssemblyReference.cache
+C:\Users\hcabrera\source\repos\Practica\Practica.Repository\obj\Debug\net5.0\Practica.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hcabrera\source\repos\Practica\Practica.Repository\obj\Debug\net5.0\Practica.Repository.AssemblyInfoInputs.cache
+C:\Users\hcabrera\source\repos\Practica\Practica.Repository\obj\Debug\net5.0\Practica.Repository.AssemblyInfo.cs
+C:\Users\hcabrera\source\repos\Practica\Practica.Repository\obj\Debug\net5.0\Practica.Repository.csproj.CoreCompileInputs.cache
+C:\Users\hcabrera\source\repos\Practica\Practica.Repository\obj\Debug\net5.0\Practica.Repository.dll
+C:\Users\hcabrera\source\repos\Practica\Practica.Repository\obj\Debug\net5.0\ref\Practica.Repository.dll
+C:\Users\hcabrera\source\repos\Practica\Practica.Repository\obj\Debug\net5.0\Practica.Repository.pdb
